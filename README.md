@@ -13,10 +13,13 @@ Ejercicio 2
 Ejercicio 3
 
 Ejercicio 4
+![Visualización de la escena Ej 4](P3-EJ-4.gif)
 
 Ejercicio 5
+![Visualización de la escena Ej 5](P3-EJ-5.gif)
 
 Ejercicio 6
+![Visualización de la escena Ej 6](P3-EJ-6.gif)
 
 Ejercicio 7
 
