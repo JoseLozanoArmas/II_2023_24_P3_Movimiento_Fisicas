@@ -22,8 +22,10 @@ Ejercicio 6
 ![Visualización de la escena Ej 6](P3-EJ-6.gif)
 
 Ejercicio 7
+![Visualización de la escena Ej 7](P3-EJ-7.gif)
 
 Ejercicio 8
+![Visualización de la escena Ej 8](P3-EJ-8.gif)
 
 Ejercicio 9
 
